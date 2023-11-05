@@ -1,6 +1,3 @@
-lanchain 
-openai
-streamlit
-chromadb
-tiktoken
-wikipedia
+langchain==0.0.330
+python-dotenv==1.0.0
+streamlit==1.28.1
